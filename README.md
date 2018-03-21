@@ -13,7 +13,7 @@ Queries that can be answered from the Visualization.
 
 These tasks are difficult to conduct with Excel or statistical approaches:<br>
 a.	The latitude and longitude of the dataset cannot be portrayed with the help of Excel. <br>
-b.	The visa applications which could be issued next year cannot be shown by Excel as Excel does not have the feature of predicting which can be done using Tableau. 
-c.	The increase or decrease between two fields cannot be calculated using Excel.
-d.	The comparison between two fields cannot be done which is easy with the help of Tableau.
+b.	The visa applications which could be issued next year cannot be shown by Excel as Excel does not have the feature of predicting which can be done using Tableau. <br>
+c.	The increase or decrease between two fields cannot be calculated using Excel.<br>
+d.	The comparison between two fields cannot be done which is easy with the help of Tableau.<br>
 e.	The dataset contains 3 million records which is a very huge amount and Excel can only show 1 million entries. Thus, the answers derived by the dataset using Excel will not be appropriate as they are derived from incomplete data.
